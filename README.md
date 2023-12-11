@@ -1,9 +1,8 @@
 - 👋 Hi, I’m @marcosfa00
 - 👀 I’m interested in progaming
-- 🌱 I’m currently learning DAM1 (development of multiplataform aplications)
-- 💞️ I’m looking to collaborate 
+- 🌱 I’m currently learning DAM2 (development of multiplataform aplications)
+- 💞️ I’m looking to collaborate and improve my knowledge
 - 📫 How to reach me (instagram) @marcosfa_
-prueba
 
 <!---
 marcosfa00/marcosfa00 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
