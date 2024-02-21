@@ -50,6 +50,12 @@ Let's connect, collaborate, and innovate together! ✨
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
 
 
+<a target="_blank" href="https://github.com/marcosfa00">
+  <img alt="Marcosfa00's GitHub Stats" align="center" src="https://github-readme-stats.vercel.app/api?username=marcosfa00&show_icons=true&theme=vision-friendly-dark&count_private=true" />
+</a>
+
+
+
 
 
 
