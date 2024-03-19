@@ -13,11 +13,11 @@ I'm passionate about crafting innovative solutions and pushing the boundaries in
 
 Let's connect, collaborate, and innovate together! ✨
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/marcos-fernández-avendaño-2031a41b6/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Marcos Fdez. Avendaño" height="30" width="40" /></a>
-<a href="https://www.instagram.com/marcosfa_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="n.vaniko" height="30" width="40" /></a>
-</p>
+### Conéctate conmigo:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Marcos_Fdez._Avendaño-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/marcos-fernández-avendaño-2031a41b6/)
+[![Instagram](https://img.shields.io/badge/Instagram-marcosfa_-purple?style=flat-square&logo=instagram)](https://www.instagram.com/marcosfa_/)
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -27,8 +27,6 @@ Let's connect, collaborate, and innovate together! ✨
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/>
- </p> 
-<p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
