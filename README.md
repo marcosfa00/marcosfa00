@@ -13,7 +13,7 @@ I'm passionate about crafting innovative solutions and pushing the boundaries in
 
 Let's connect, collaborate, and innovate together! ✨
 
-### Conéctate conmigo:
+### Connect with me:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Marcos_Fdez._Avendaño-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/marcos-fernández-avendaño-2031a41b6/)
 [![Instagram](https://img.shields.io/badge/Instagram-marcosfa_-purple?style=flat-square&logo=instagram)](https://www.instagram.com/marcosfa_/)
